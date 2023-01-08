@@ -1,0 +1,62 @@
+package konpro.nkescec.dz1;
+
+import java.util.Objects;
+
+public class Location {
+
+    private int x;
+
+    private int y;
+
+    public Location() {
+    }
+
+    public Location(int x, int y) {
+        this.x = x;
+        this.y = y;
+    }
+
+    public int getX() {
+        return x;
+    }
+
+    public void setX(int x) {
+        this.x = x;
+    }
+
+    public int getY() {
+        return y;
+    }
+
+    public void setY(int y) {
+        this.y = y;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (o == null || getClass() != o.getClass()) {
+            return false;
+        }
+        final Location location = (Location) o;
+        return x == location.x && y == location.y;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(x, y);
+    }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("Location{");
+        sb.append("x=").append(x);
+        sb.append(", y=").append(y);
+        sb.append('}');
+
+        return sb.toString();
+    }
+
+}

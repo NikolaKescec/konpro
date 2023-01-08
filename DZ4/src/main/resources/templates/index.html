@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="https://www.thymeleaf.org"
+      xmlns:sec="https://www.thymeleaf.org/thymeleaf-extras-springsecurity6">
+<head>
+    <title>Tv timer</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+</head>
+<body>
+<h1 th:inline="text">Hello <span th:remove="tag" sec:authentication="name">thymeleaf</span>!</h1>
+<form th:action="@{/logout}" method="post">
+    <input type="submit" value="Sign Out"/>
+</form>
+<div th:each="tvProgramme: ${tvProgrammes}" style="border: gray 1px dotted; border-radius: 2px; margin-top: 2px;">
+    <h3 th:text="${tvProgramme.getTitle() + ' | ' + tvProgramme.getStart()}"/>
+    <p th:text="${tvProgramme.getDescription()}"/>
+    <button th:disabled="${registered.contains(tvProgramme.getId()) || tvProgramme.getStart().isBefore(currentTime)}"
+            th:id="${tvProgramme.getId()}"
+            onclick="register(this.id)">
+        Register
+    </button>
+</div>
+</body>
+<script>
+    const PERIOD = 1000;
+
+    function checkRemaining() {
+        $.ajax({
+            url: "http://localhost:8080/remaining",
+            accepts: {
+                json: "application/json"
+            },
+            success: function (data) {
+                if (data.length !== 0 && document.hasFocus()) {
+                    alert(data.map(value => `${value.first}: ${value.second} min\n`))
+                }
+            },
+            complete: function () {
+                setTimeout(checkRemaining, PERIOD);
+            }
+        });
+    }
+
+    function register(id) {
+        $.ajax({
+            url: `http://localhost:8080/register/${id}`,
+            method: "POST",
+            complete: function (response) {
+                if (response.status === 200) {
+                    $(`#${id}`).prop("disabled", true);
+                }
+            }
+        })
+    }
+
+    setTimeout(checkRemaining, 0);
+    document.addEventListener("visibilitychange", ev => {
+        if (document.visibilityState !== "visible") {
+            checkRemaining();
+        }
+    })
+</script>
+</html>

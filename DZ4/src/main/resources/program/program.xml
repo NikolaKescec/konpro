@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="https://tvprofil.net/api/xmltv/" source-info-name="TvProfil API v2.0 - XMLTV" source-info-url="https://tvprofil.com">
+    <channel id="rtl.hr">
+        <display-name>RTL</display-name>
+        <url>http://www.rtl.hr</url>
+        <icon src="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL.png" />
+    </channel>
+    <programme channel="rtl.hr" start="20230106003000 +0100" stop="20230106011500 +0100">
+        <title lang="hr">CSI: Miami 1, ep. 16. (12)</title>
+        <desc lang="hr">Istočnoeuropski imigrant izboden je na smrt dok je promatrao peep show. Jedini svjedok je striptizeta koja ga je zabavljala u trenutku kada je ubijen. No nju ubrzo usmrti auto koji pobjegne s
+            mjesta nesreće. Horatio ispituje njezinog svodnika, a ujedno i supruga, o tome kako je provodila vrijeme nakon posla. Suprug je sljedeća žrtva, a kriminalistički forenzičari pronalaze zagonetan DNK uzorak u
+            njihovoj sobi, koji će ih približiti rješenju slučaja.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106011500 +0100" stop="20230106022500 +0100">
+        <title lang="hr">RTL Danas</title>
+        <desc lang="hr">Središnja informativna emisija RTL Danas svakog dana u 18:30 donosi samo aktualne, istinite i objektivne informacije. Uz etablirane urednice i voditeljice Mirjanu Hrgu i Anu Brdarić-Boljat, RTL
+            Danas je prvi, neovisan i nepristran informativni program.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106022500 +0100" stop="20230106074500 +0100">
+        <title lang="hr">Kraj programa</title>
+    </programme>
+    <programme channel="rtl.hr" start="20230106074500 +0100" stop="20230106082000 +0100">
+        <title lang="hr">RTL Direkt</title>
+        <desc lang="hr">"RTL Direkt" novi je voditeljski i urednički izazov Zorana Šprajca, šarmantnog i provokativnog voditelja, koji će od danas, od ponedjeljka do četvrtka, točno u 22 sata i 15 minuta, u vaše domove
+            donositi najrelevantnije i najzanimljivije priče dana u novoj informativnoj emisiji RTL Televizije - "RTL Direkt".
+
+            "RTL Direkt" je dnevni late night news magazin u kojem će gledatelj dobiti pregled najvažnijih događaja dana, kao i najnovije vijesti večeri, a one priče koje su od posebnog interesa i važnosti će obraditi ne
+            samo u formi reportaže već i kroz studijske intervjue s relevantnim i stručnim gostima.
+
+            Rebrendiranje informativnog programa RTL-a nije ograničeno samo na sadržaj i formu, nego i na vizualni identitet. Novi set u studiju RTL-a je opremljen s dva interaktivna LED video zida s najnovijim ultraHD i
+            ultra-bright tehnologijama, ukupne površine 15 četvornih metara. Panoramska pozadina seta izrađena je jedinstvenom tehnikom koja do sada nije korištena na našim prostorima, prosvjetljavanjem ciklorame LED
+            ekranima što cjelokupnom setu daje dinamičan izgled. Za izradu namještaja na setu korišten je potpuno novi kompozitni materijal koji još nije korišten za televizijske scenografije. Savršena kulisa za
+            besprijekornog voditelja britkog jezika koji će vas točno u 22 sata i 15 minuta, na svoj osebujan način voditi kroz najrelevantnije događaje dana u zemlji i svijetu, u novom news magazinu "RTL Direkt".
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106082000 +0100" stop="20230106082500 +0100">
+        <title lang="hr">Kockić i prijatelji, zabavno-edukativna emisija 1, ep. 15.</title>
+    </programme>
+    <programme channel="rtl.hr" start="20230106082500 +0100" stop="20230106085500 +0100">
+        <title lang="hr">Yu-Gi-Oh! Zexal 2, ep. 33.</title>
+        <desc lang="hr">"Yu-Gi-Oh! Zexal" japanska je animirana serija s popularnim japanskim mangama čija se radnja odvija u bliskoj budućnosti u Heartland Cityu. Yuma Tsukumo glavni je lik, mladi duelist koji želi
+            sudjelovati u dvoboju čudovišta te postati prvak igre. Yuma sudjeluje u mnogim dvobojima te se svim snagama trudi postati što bolji igrač kako bi ostvario svoj san o uspjehu.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106085500 +0100" stop="20230106090500 +0100">
+        <title lang="hr">Štrumpfovi (2021.) 1, ep. 31.</title>
+        <desc lang="hr">Štrumpfovi su mala plava stvorenja koja žive u šumi u kućama od gljiva. Papa Štrumpf, Mrgud, Medeni, Vicko, Lumen, Štrumpfeta, Svirko, Divlji, Pjesnik, samo su neki od Štrumfova koji su dobili ime
+            prema poslovima kojima se bave ili svojim osobinama. Njihov glavni neprijatelj je Gargamel, a s njim i njegov mačak Azrijel, koji mrze mala bića i sve će učiniti na im napakoste i da ih ulove.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106090500 +0100" stop="20230106093000 +0100">
+        <title lang="hr">Potraga za otokom 1, ep. 9.</title>
+        <desc lang="hr">Mladenci Rachel i Jeff žive u Bostonu u Massachusettsu, ali godišnjicu braka žele proslaviti na obali Georgije.</desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106093000 +0100" stop="20230106100000 +0100">
+        <title lang="hr">Potraga za otokom 1, ep. 10.</title>
+        <desc lang="hr">Bill i Emili otac su i kći koji žele prodati obiteljsku farmu te se preseliti na Kristalnu obalu Sjeverne Karoline.</desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106100000 +0100" stop="20230106101500 +0100">
+        <title lang="hr">TV prodaja</title>
+        <desc lang="sl">TV prodaja na vašem domu.</desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106101500 +0100" stop="20230106111000 +0100">
+        <title lang="hr">Kupuj i prodaj 3, ep. 16.</title>
+        <desc lang="hr">U novom serijalu naši stari poznanici ‘lovci na nekretnine’, braća Drew i Jonathan Scott pomažu vlasnicima da prodaju svoj dom te kupe nove domove iz snova. I dok Jonathan traži najbolju opciju
+            preuređenja doma te nakon toga prodaju istog, Drew provjerava što se nudi na tržištu nekretnina. Lifestyle serija novijeg datuma s braćom Drew nakon uspjeha “Lovaca na nekretnine”, vodi braću na ponešto
+            drugačiji zadatak, ali i dalje u sferi nekretnina. Svi koji su se ikada našli situaciji da moraju prodati i kupiti dom znaju pod kakvim se pritiskom nalaze prodavatelji starog doma u potrazi za novim. Kao da
+            stres nije dovoljan dok prodajete stari dom pun uspomena, koji vam je toliko blizu srcu, morate pronaći novi, pravi dom za vas i obitelj, dom u kojem možete zamisliti kako provodite ugodne trenutke. Braća
+            Drew pomažu vlasnicima stanova kako bi oba zadatka što lakše svladali, dok gledatelji mogu dosta naučiti u seriji koja, ne samo da zabavlja već nas i educira u području prodaje i kupnje nekretnina.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106111000 +0100" stop="20230106112500 +0100">
+        <title lang="hr">TV prodaja</title>
+        <desc lang="sl">TV prodaja na vašem domu.</desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106112500 +0100" stop="20230106122000 +0100">
+        <title lang="hr">Bijeg u dvorac: Sam svoj majstor 1, ep. 1.</title>
+        <desc lang="hr">Nakon što je sa suprugom kupio i preuredio dvorac Château de la Motte-Husson iz 19. stoljeća u Martigné-sur-Mayenneu, Dick Strawbridge daje savjetodavnu podršku drugima. U inačici dokumentarne
+            serije „Bijeg u dvorac“ britanskog Channela 4, koja se zove ”Sam svoj majstor”, gledatelji će moći upoznati britanske obitelji koje obnavljaju dvorce u Francuskoj ili ih žele kupiti. U ulozi naratora je Dick
+            Strawbridge, koji zajedno sa suprugom Angel Adoree pruža pomoć svojim iskusnim savjetima.
+            Pa tako daju Jonnyju savjete i otkrivaju trikove kako pronaći savršen dvorac a da pritom ne kupe nekretninu koja će, ako je žele obnoviti, biti samo bacanje novca i bunar bez dna. Također upoznajemo Jonathana
+            i Michaela, koji žele zarađivati organizirajući vjenčanja u jednom dvorcu. Dick i Angel pomažu Jonnyju i Ashley da potraže vlastiti zamak, a Philip i Angelina posjećuju Dicka i traže njegovo inženjersko
+            znanje i stručnost u izgradnji mosta za dvorac. I dok Jonathan i Michael traže blago u špiljama dvorca, tj. zalihe vina iz Drugog svjetskog rata, Fiona započinje obnovu blagovaonice u dvorcu. Na drugoj
+            lokaciji Mandy i Steve grade bazen u svom dvorcu u Dordognei.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106122000 +0100" stop="20230106131000 +0100">
+        <title lang="hr">Lovci na nekretnine: Savršen dom 1, ep. 27.</title>
+        <desc lang="hr">U seriji najnovijeg datuma, Jonathan i Drew Scott kreću u novu misiju renovacije domova! Ovoga puta cilj im je pomoći obiteljima da svoje prosječne kuće pretvore u savršen dom. Otkriti pravi
+            potencijal doma, preurediti prema potrebama, željama i snovima nije jednostavno, no zato su tu braća Scott koja odlaze u obilazak kuća te otkrivaju bez čega obitelji ne mogu živjeti i što bi voljele mijenjati
+            nudeći promjene, naravno, unutar obiteljskog budžeta, pritom se koristeći 3D grafikom kako bi svaki dom pretvorili u malu dizajnersku funkcionalnu sredinu koja će obitelji savršeno odgovarati, ali i
+            izgledati.
+            Ova jedinstvena franšiza, koja kombinira kupovanje nekretnina i njihovo uređivanje uz savjete simpatične braće Drew, od 2011. proširila se na četiri spin-offa od kojih je “Savršeni dom” najnovije izdanje, u
+            kojem je zadatak braće da obiteljske kuće, u kojima je već pušteno korijenje, pretvore u lijepe i moderne domove, bez ikakve namjere preprodaje, s ciljem da viziju idealnog doma pretvore u stvarnost.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106131000 +0100" stop="20230106140000 +0100">
+        <title lang="hr">Cobra 11, akcijska serija 25, ep. 9. (12)</title>
+        <desc lang="hr">Oni su uistinu najbrži i najžešći - policajci s autoputa!
+            "Cobra 11" serijski je format s najdužim stažem na RTL-u! Hrvatski gledatelji još od 2004. godine prate sve o poslovnim i privatnim uspjesima i nedaćama najpoznatije njemačke policijske jedinice koju predvodi
+            Semir Gerkhan.
+            Najuspješniji njemački akcijski serijal „Cobra 11 - policajci s autoputa″ tijekom 23 uspješnih godina postala je svojevrsni brend, a njezini protagonisti jedni od najpoznatijih televizijskih policajaca u
+            Njemačkoj i šire. Nove epizode serije koja je osvojila nekoliko nagrada, među kojima je i cijenjena „Taurus World Stunt“, nagrada koju „Cobra 11“ osvaja skoro svake godine, oduševit će gledatelje inovativnim
+            idejama, uzbudljivim pričama te mnoštvom automobilskih i vatrenih vratolomija koje garantiraju televizijsku zabavu.
+            Policajci na motorima žive brzo i opasno, njihov radni dan je neprekidna i neumorna utrka sa smrću. Neprijatelji su im ubojice, otmičari, dileri droge, kradljivci... u očajničkom bijegu. To je neprestana
+            borba bez milosti u kojoj vrhunski istrenirani tim na motorima svakodnevno hvata svoju opasnu lovinu po autocestama ali i po gradskim ulicama gdje brzina donosi mnoge nove opasnosti.
+            “Cobra 11” je jedna od klasičnih RTL-ovih akcijom nabijenih serija, čijoj spektakularnosti pridonose sjajni specijalni efekti ultrabrzog ritma akcijskih sekvenci. Od senzacionalnog debija koji je širom
+            Njemačke izazvao pravu gledateljsku groznicu, serija se proširila Europom. Zapaljiva smjesa vrhunske akcije, vrtoglavih potjera i zanimljivih policijskih slučajeva jamči prvoklasnu televizijsku zabavu.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106140000 +0100" stop="20230106145500 +0100">
+        <title lang="hr">Cobra 11, akcijska serija 25, ep. 10. (12)</title>
+        <desc lang="hr">Oni su uistinu najbrži i najžešći - policajci s autoputa!
+            "Cobra 11" serijski je format s najdužim stažem na RTL-u! Hrvatski gledatelji još od 2004. godine prate sve o poslovnim i privatnim uspjesima i nedaćama najpoznatije njemačke policijske jedinice koju predvodi
+            Semir Gerkhan.
+            Najuspješniji njemački akcijski serijal „Cobra 11 - policajci s autoputa″ tijekom 23 uspješnih godina postala je svojevrsni brend, a njezini protagonisti jedni od najpoznatijih televizijskih policajaca u
+            Njemačkoj i šire. Nove epizode serije koja je osvojila nekoliko nagrada, među kojima je i cijenjena „Taurus World Stunt“, nagrada koju „Cobra 11“ osvaja skoro svake godine, oduševit će gledatelje inovativnim
+            idejama, uzbudljivim pričama te mnoštvom automobilskih i vatrenih vratolomija koje garantiraju televizijsku zabavu.
+            Policajci na motorima žive brzo i opasno, njihov radni dan je neprekidna i neumorna utrka sa smrću. Neprijatelji su im ubojice, otmičari, dileri droge, kradljivci... u očajničkom bijegu. To je neprestana
+            borba bez milosti u kojoj vrhunski istrenirani tim na motorima svakodnevno hvata svoju opasnu lovinu po autocestama ali i po gradskim ulicama gdje brzina donosi mnoge nove opasnosti.
+            “Cobra 11” je jedna od klasičnih RTL-ovih akcijom nabijenih serija, čijoj spektakularnosti pridonose sjajni specijalni efekti ultrabrzog ritma akcijskih sekvenci. Od senzacionalnog debija koji je širom
+            Njemačke izazvao pravu gledateljsku groznicu, serija se proširila Europom. Zapaljiva smjesa vrhunske akcije, vrtoglavih potjera i zanimljivih policijskih slučajeva jamči prvoklasnu televizijsku zabavu.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106145500 +0100" stop="20230106155500 +0100">
+        <title lang="hr">Večera za 5 na selu 5, ep. 14.</title>
+        <desc lang="hr">Jedna od najpopularnijih kulinarskih emisija vraća se ponovno na male ekrane, no ovog puta u nešto drugačijem izdanju koje će gledateljima proširiti gastro vidike, otkriti nove okuse i recepte
+            stare više od 100 godina te prikazati sve ljepote naše zemlje.
+            Nekadašnja omiljena TV gastro franšiza “Večera za 5” počinje s prikazivanjem jubilarne desete sezone te postaje “Večera za 5 na selu”. Kako i samo ime emisije govori, u novoj sezoni showa gledatelji će
+            upoznati tradicionalnu hranu hrvatskih sela i manjih mjesta, a kamere će zaviriti u sve krajeve Lijepe Naše – od Istre, Kvarnera i Dalmacije preko Zagorja, središnje i sjeverozapadne Hrvatske do Slavonije.
+            Ove sezone pratit će se potraga za najboljim domaćinima i najukusnijim seoskim jelima, a cilj je emisije promicanje ruralne sredine i tradicije.
+            Zanimljivi i osebujni domaćini svojim će gostima pripremati slasna tradicionalna jela od kvalitetnih domaćih namirnica koje su sami napravili, uzgojili ili možda čak i ulovili. Sistem “iz dvorišta na tanjur”
+            pokazat će se kao velika prednost pri kuhanju, a natjecatelji će često posezati i za receptima svojih baka i prabaka kako bi tamo izvukli pobjedničku kartu. Tako će jedan kandidat kuhati po kuharici staroj
+            više od 100 godina!
+            Osim prekrasne prirode i, naravno, dobre hrane, domaćini će ugostiti društvo uz kapljicu dobrog vina i nezaobilazne vesele pjesme. A koncept emisije prilično je jednostavan, kao i prethodnih sezona, svaki
+            tjedan radnja se seli u novu županiju i prati kulinarske pothvate novih petero kandidata. Pobjednik tjedna osvaja Prima poklon-bon u vrijednosti od 5000 kuna, a ostali natjecatelji bon u vrijednosti 1000
+            kuna.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106155500 +0100" stop="20230106163000 +0100">
+        <title lang="hr">Blago nama 1, ep. 11.</title>
+        <desc lang="hr">Humoristična serija "Blago nama" donosi priču o sukobljenim karakterima i odnosima punim šaljivog nerazumijevanja među članovima iste obitelji koja, djelomično prisilno, mora živjeti pod istim
+            krovom.
+            Kod Borisa i Ane, mladog, pomalo uštogljenog i ambicioznog bračnog para, nenadano se useljava njezina sestra s cijelom svojom prilično opuštenom i glasnom obitelji, a zajedno s njom stiže i njihov otac,
+            čangrizavi umirovljenik. A kad se toliko šarolikih karaktera nađe na istom mjestu, smijeh i dobra zabava su garantirani.
+            Razlike među generacijama, ponekad zamršen bračni i roditeljski odnosi, ljubav tasta i zetova ili svekrve i snahe samo su neke tipične situacije s kojima se vrlo lako može poistovjetiti baš svaki gledatelj.
+            Glavne uloge u seriji pripale su cijenjenim regionalnim glumačkim imenima - Enisu Bešlagiću, Žarku Radiću, Hristini Popović, Tari Rosandić, Filipu Križanu te Zlatanu Zuhriću Zuhri, dok radnju serije potpisuju
+            Mirna Miličić, Vlado Bulić te Goran Rukavina, koji je ujedno i redatelj.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106163000 +0100" stop="20230106171000 +0100">
+        <title lang="hr">RTL Danas</title>
+        <desc lang="hr">Središnja informativna emisija RTL Danas svakog dana u 18:30 donosi samo aktualne, istinite i objektivne informacije. Uz etablirane urednice i voditeljice Mirjanu Hrgu i Anu Brdarić-Boljat, RTL
+            Danas je prvi, neovisan i nepristran informativni program.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106171000 +0100" stop="20230106181000 +0100">
+        <title lang="hr">Miriše na ljubav 2, ep. 39.</title>
+        <desc lang="hr">Dok je Serkan zabrinut za Edu, ona želi pobjeći od svega i raditi što god poželi. Melek nije sigurna želi li biti u vezi s Burakom. Piril i Engin su zabrinuti za posao.</desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106181000 +0100" stop="20230106190000 +0100">
+        <title lang="hr">Dođi, pogodi, osvoji 2, ep. 80.</title>
+        <desc lang="hr">Najdugovječniji game show u povijesti televizije, koji se do danas već uspješno prikazivao u više od 40 zemalja svijeta, uskoro stiže u program RTL-a. I dok neki showovi svoje natjecatelje
+            nagrađuju za bogato opće znanje, neki traže fizičku spremu, nekima je od presudne važnosti dobra strategija, pomoć partnera, kulinarski ili pak pjevački talent, u ovom game showu baš ništa od toga nije važno.
+            Šaroliki natjecatelji u game showu ’Dođi, pogodi, osvoji’ imaju samo jedan zadatak - pogoditi pravu cijenu uobičajenih ili malo manje uobičajenih raznovrsnih artikala, koje potom i osvajaju, od staklenke
+            majoneze, brendirane torbice, kosilice ili pak automobila, a do tog će ih cilja kroz brojne zabavne, humoristične i neobične igre voditi jedno od najomiljenijih hrvatskih televizijskih lica, Antonija Blaće,
+            te popularni reper Marin Ivanović Stoka, koji se pred kamere vraća nakon čak desetljeća izbivanja.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106190000 +0100" stop="20230106201500 +0100">
+        <title lang="hr">RTL Danas</title>
+        <desc lang="hr">Središnja informativna emisija RTL Danas svakog dana u 18:30 donosi samo aktualne, istinite i objektivne informacije. Uz etablirane urednice i voditeljice Mirjanu Hrgu i Anu Brdarić-Boljat, RTL
+            Danas je prvi, neovisan i nepristran informativni program.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106201500 +0100" stop="20230106211500 +0100">
+        <title lang="hr">Večera za 5 na selu 5, ep. 15.</title>
+        <desc lang="hr">Jedna od najpopularnijih kulinarskih emisija vraća se ponovno na male ekrane, no ovog puta u nešto drugačijem izdanju koje će gledateljima proširiti gastro vidike, otkriti nove okuse i recepte
+            stare više od 100 godina te prikazati sve ljepote naše zemlje.
+            Nekadašnja omiljena TV gastro franšiza “Večera za 5” počinje s prikazivanjem jubilarne desete sezone te postaje “Večera za 5 na selu”. Kako i samo ime emisije govori, u novoj sezoni showa gledatelji će
+            upoznati tradicionalnu hranu hrvatskih sela i manjih mjesta, a kamere će zaviriti u sve krajeve Lijepe Naše – od Istre, Kvarnera i Dalmacije preko Zagorja, središnje i sjeverozapadne Hrvatske do Slavonije.
+            Ove sezone pratit će se potraga za najboljim domaćinima i najukusnijim seoskim jelima, a cilj je emisije promicanje ruralne sredine i tradicije.
+            Zanimljivi i osebujni domaćini svojim će gostima pripremati slasna tradicionalna jela od kvalitetnih domaćih namirnica koje su sami napravili, uzgojili ili možda čak i ulovili. Sistem “iz dvorišta na tanjur”
+            pokazat će se kao velika prednost pri kuhanju, a natjecatelji će često posezati i za receptima svojih baka i prabaka kako bi tamo izvukli pobjedničku kartu. Tako će jedan kandidat kuhati po kuharici staroj
+            više od 100 godina!
+            Osim prekrasne prirode i, naravno, dobre hrane, domaćini će ugostiti društvo uz kapljicu dobrog vina i nezaobilazne vesele pjesme. A koncept emisije prilično je jednostavan, kao i prethodnih sezona, svaki
+            tjedan radnja se seli u novu županiju i prati kulinarske pothvate novih petero kandidata. Pobjednik tjedna osvaja Prima poklon-bon u vrijednosti od 5000 kuna, a ostali natjecatelji bon u vrijednosti 1000
+            kuna.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106211500 +0100" stop="20230106221500 +0100">
+        <title lang="hr">Miriše na ljubav 2, ep. 40.</title>
+        <desc lang="hr">Eda i Serkan odluče otići do planinarskog doma, no na putu im se pokvari auto. Edi počinju trudovi i Serkan je hitno mora odvesti u bolnicu. Iz različitih razloga svi se nađu u bolnici, no tamo
+            nema Ede i Serkana.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230106221500 +0100" stop="20230107002000 +0100">
+        <title lang="hr">Sestre (15)</title>
+        <desc lang="hr">Jane i Maura su sestre nezadovoljne činjenicom što su njihovi roditelji odlučili prodati obiteljsku kuću u kojoj su one provele djetinjstvo i srednjoškolske dane. Iako sada već odrasle žene,
+            shvativši da se moraju oprostiti od svih nevjerojatnih uspomena koje ih uz kuću vežu, odlučuju pripremiti najluđi party koji u srednjoškolskim danima nikada nisu napravili. Ubrzo će shvatiti da su pripremile
+            uistinu najluđi party koji se nepovratno oteo kontroli, a na kojemu su one, kako su i priželjkivale, glavne zvijezde!
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107002000 +0100" stop="20230107010500 +0100">
+        <title lang="hr">CSI: NY, kriminalistička serija 8, ep. 15. (12)</title>
+        <desc lang="hr">Pronađeno je tijelo Waltera Danzinga, a oko njega dokazi poput tragova cipela i gela, no jasno je da je tijelo samo bačeno na tu lokaciju te da se ubojstvo dogodilo negdje drugdje. CSI tim
+            pronalazi Darrena Gorlanda, kojega je nedavno Danzing posjetio. Forenzičari pronalaze Danzigov auto, a u njemu drogu. Ujedno zaključe da je tijelo žrtve izbačeno iz njegovog vozila te da je Danzing bio
+            profesionalni igrač videoigrica dok mu od igranja prsti nisu nastradali.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107010500 +0100" stop="20230107015000 +0100">
+        <title lang="hr">CSI: NY, kriminalistička serija 8, ep. 16. (12)</title>
+        <desc lang="hr">Na tri različita mjesta pronađeni su dijelovi ljudskog tijela - ispod kamiona, ispod klupe te na kiosku. Forenzičari sakupljaju tijelo žrtve i pokušavaju doznati što se događa, dok se Sid u
+            laboratoriju trudi odrediti dob žrtve. Nakon pronalaska glave nesretnika, CSI tim otkriva da se radi o Michaelu Byrnu, 55-godišnjem muškarcu koji je pretukao mehaničara, koji je pak gnjavio njegovog oca zbog
+            kašnjenja plaćanja. No to se čini kao beskoristan trag jer Byrnova kći CSI timu otkriva da je njezin otac bio dobar čovjek i da nije imao neprijatelje. CSi tim također zaključuje da torzo žrtve nije pronađen
+            gdje ga je ubojica bacio te da je bio prebačen s originalne lokacije.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107015000 +0100" stop="20230107023000 +0100">
+        <title lang="hr">CSI: NY, kriminalistička serija 8, ep. 17. (12)</title>
+        <desc lang="hr">Kelvin Moore i supruga Elaine odlaze na rođendanski tulum njezine sestre Alicie. No povratak u stari kvart završava njihovom smrću. Kelvin je bio svojevrsni lokalni heroj, iako odrastao u teškim
+            životnim uvjetima, uspio je izgraditi dobar život za svoju ženu i sebe te nikada nije zaboravio otkuda potječe. CSI doznaje da je Elaine imala aferu s bivšim kažnjenikom pa tim odluči malo dublje istražiti
+            trag.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107023000 +0100" stop="20230107061500 +0100">
+        <title lang="hr">Kraj programa</title>
+    </programme>
+    <programme channel="rtl.hr" start="20230107061500 +0100" stop="20230107070500 +0100">
+        <title lang="hr">Top.HR</title>
+        <desc lang="hr">Kroz emisiju vodi nas novo TV lice, Mirna Savić, koja će ugostiti brojne izvođače domaće glazbene scene, ali i otkriti najrelevantniju glazbenu listu singlova u Hrvatskoj i inozemstvu. Mirna će
+            svake nedjelje ugostiti autore i izvođače domaće glazbene scene te gledatelje informirati o listi najslušanijih domaćih singlova, novim koncertima, videospotovima i premijerama novih pjesama.
+            Svestrana zagrebačka studentica novinarstva kći je jednog od najpopularnijih glazbenika na našim prostorima, Massima Savića. Mirnu su slušatelji već imali prilike čuti na radiju Soundset te na Enteru, a
+            posljednjih je nekoliko mjeseci prepoznatljiva kao autorica iznimno duhovitog Instagram profila ’’Mirnine babuške’’.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107070500 +0100" stop="20230107071000 +0100">
+        <title lang="hr">Kockić i prijatelji, zabavno-edukativna emisija 1, ep. 16.</title>
+    </programme>
+    <programme channel="rtl.hr" start="20230107071000 +0100" stop="20230107073500 +0100">
+        <title lang="hr">Yu-Gi-Oh! Zexal 2, ep. 34.</title>
+        <desc lang="hr">"Yu-Gi-Oh! Zexal" japanska je animirana serija s popularnim japanskim mangama čija se radnja odvija u bliskoj budućnosti u Heartland Cityu. Yuma Tsukumo glavni je lik, mladi duelist koji želi
+            sudjelovati u dvoboju čudovišta te postati prvak igre. Yuma sudjeluje u mnogim dvobojima te se svim snagama trudi postati što bolji igrač kako bi ostvario svoj san o uspjehu.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107073500 +0100" stop="20230107074700 +0100">
+        <title lang="hr">Štrumpfovi (2021.) 1, ep. 32.</title>
+        <desc lang="hr">Štrumpfovi su mala plava stvorenja koja žive u šumi u kućama od gljiva. Papa Štrumpf, Mrgud, Medeni, Vicko, Lumen, Štrumpfeta, Svirko, Divlji, Pjesnik, samo su neki od Štrumfova koji su dobili ime
+            prema poslovima kojima se bave ili svojim osobinama. Njihov glavni neprijatelj je Gargamel, a s njim i njegov mačak Azrijel, koji mrze mala bića i sve će učiniti na im napakoste i da ih ulove.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107074700 +0100" stop="20230107085000 +0100">
+        <title lang="hr">Dobar, bolji, najbolji...kroz ušicu igle, dokumentarna serija 2, ep. 7.</title>
+        <desc lang="hr">Claudia Winkleman dočekuje četvero preostalih natjecatelja koji se vraćaju u šivaonicu kako bi se izborili za ulazak u polufinale. Pred njima su tri izazova - no ni u jednom se ne smiju služiti
+            krojem. Prvo moraju dokazati da znaju modelirati tako što će od komada tkanine skrojiti haljinu izravno na lutki. Takav je način krojenja bio vrlo popularan 1930-ih. Potom će prepraviti haljinu dodavanjem
+            savršeno simetričnih rukava. I, za kraj, donijet će svoj omiljeni komad odjeće od kuće, kopirati ga i prilagoditi svojim mjerama. Dok jedni igraju na sigurno i kopiraju jednostavne haljine, drugi riskiraju s
+            malo zahtjevnijim komadima - no, tko će biti dovoljno dobar da se probije u završnicu?
+            Odabrala: Mira Vočinkić
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107085000 +0100" stop="20230107090500 +0100">
+        <title lang="hr">TV prodaja</title>
+        <desc lang="sl">TV prodaja na vašem domu.</desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107090500 +0100" stop="20230107095000 +0100">
+        <title lang="hr">Lovci na nekretnine: Savršen dom 1, ep. 27.</title>
+        <desc lang="hr">U seriji najnovijeg datuma, Jonathan i Drew Scott kreću u novu misiju renovacije domova! Ovoga puta cilj im je pomoći obiteljima da svoje prosječne kuće pretvore u savršen dom. Otkriti pravi
+            potencijal doma, preurediti prema potrebama, željama i snovima nije jednostavno, no zato su tu braća Scott koja odlaze u obilazak kuća te otkrivaju bez čega obitelji ne mogu živjeti i što bi voljele mijenjati
+            nudeći promjene, naravno, unutar obiteljskog budžeta, pritom se koristeći 3D grafikom kako bi svaki dom pretvorili u malu dizajnersku funkcionalnu sredinu koja će obitelji savršeno odgovarati, ali i
+            izgledati.
+            Ova jedinstvena franšiza, koja kombinira kupovanje nekretnina i njihovo uređivanje uz savjete simpatične braće Drew, od 2011. proširila se na četiri spin-offa od kojih je “Savršeni dom” najnovije izdanje, u
+            kojem je zadatak braće da obiteljske kuće, u kojima je već pušteno korijenje, pretvore u lijepe i moderne domove, bez ikakve namjere preprodaje, s ciljem da viziju idealnog doma pretvore u stvarnost.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107095000 +0100" stop="20230107101000 +0100">
+        <title lang="hr">TV prodaja</title>
+        <desc lang="sl">TV prodaja na vašem domu.</desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107101000 +0100" stop="20230107113000 +0100">
+        <title lang="hr">Brak na prvu (Australija) 6, ep. 40. (12)</title>
+        <desc lang="hr">Originalno nastao u Danskoj, gdje se prva sezona prikazivala 2014. godine nakon čega je show postigao velik uspjeh diljem svijeta i postao jedan od najgledanijih sadržaja. Prikazuje se u 29
+            zemalja, a tako se preselio i u daleku Australiju, gdje je show iznimno popularan, štoviše postao je jedna od najuspješnijih inačica ovog globalnog fenomena.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107113000 +0100" stop="20230107130000 +0100">
+        <title lang="hr">Brak na prvu (Australija) 6, ep. 41. (12)</title>
+        <desc lang="hr">Originalno nastao u Danskoj, gdje se prva sezona prikazivala 2014. godine nakon čega je show postigao velik uspjeh diljem svijeta i postao jedan od najgledanijih sadržaja. Prikazuje se u 29
+            zemalja, a tako se preselio i u daleku Australiju, gdje je show iznimno popularan, štoviše postao je jedna od najuspješnijih inačica ovog globalnog fenomena.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107130000 +0100" stop="20230107143000 +0100">
+        <title lang="hr">Taxi blues</title>
+        <desc lang="hr">Glavni junak ove priče je Marko, simpatični propali dramaturg koji godinama radi kao taksist i čije avanture pratimo tijekom jedne urnebesne noći. Naizgled jedan normalan dan na poslu pretvorit će
+            se u kaos kada se u njegov auto ušulja dječak Damir koji je pobjegao iz doma za nezbrinutu djecu i koji je u potrazi za svojim ocem. Vožnja njih dvojice u taksiju tijekom jedne noći će rezultirati gomilom
+            suludih situacija koje će se smjenjivati zajedno sa mnoštvom likova koji će prodefilirati kroz taksi kao mušterije.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107143000 +0100" stop="20230107163000 +0100">
+        <title lang="hr">Sestre (15)</title>
+        <desc lang="hr">Jane i Maura su sestre nezadovoljne činjenicom što su njihovi roditelji odlučili prodati obiteljsku kuću u kojoj su one provele djetinjstvo i srednjoškolske dane. Iako sada već odrasle žene,
+            shvativši da se moraju oprostiti od svih nevjerojatnih uspomena koje ih uz kuću vežu, odlučuju pripremiti najluđi party koji u srednjoškolskim danima nikada nisu napravili. Ubrzo će shvatiti da su pripremile
+            uistinu najluđi party koji se nepovratno oteo kontroli, a na kojemu su one, kako su i priželjkivale, glavne zvijezde!
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107163000 +0100" stop="20230107170000 +0100">
+        <title lang="hr">RTL Danas</title>
+        <desc lang="hr">Središnja informativna emisija RTL Danas svakog dana u 18:30 donosi samo aktualne, istinite i objektivne informacije. Uz etablirane urednice i voditeljice Mirjanu Hrgu i Anu Brdarić-Boljat, RTL
+            Danas je prvi, neovisan i nepristran informativni program.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107170000 +0100" stop="20230107190000 +0100">
+        <title lang="hr">Osjećam se lijepa</title>
+        <desc lang="hr">Žena koja se bori s nesigurnošću budi se nakon pada, uvjerena da je supermodel. S novim samopouzdanjem, osjeća se ovlaštena da živi bez straha, ali što će se dogoditi kad shvati da se njezin
+            izgled nikad nije promijenio?
+            Renee Bennett zna kakav je osjećaj biti prosječnog izgleda u New Yorku – gradu genetski i financijski blagoslovljenih. Nakon što padne s bicikla i udari glavom za vrijeme sata spinninga, otetura u svlačionicu
+            i ugleda što se dogodilo – noge su joj mišićave, kosa svilenkasta, a brada definirana – sada je prekrasna. Samo što svima ostalima ona izgleda jednako. Reneeina nova vjera u sebe pomaže joj dobiti poštovanje
+            svoje nevjerojatno lijepe šefice, zgodnog dečka i pozivnicu na tulume na krovu. Ali ova čarolija ne traje vječno pa će Renee morati uvidjeti da istinska ljepota nije samo površinska.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107190000 +0100" stop="20230107201500 +0100">
+        <title lang="hr">RTL Danas</title>
+        <desc lang="hr">Središnja informativna emisija RTL Danas svakog dana u 18:30 donosi samo aktualne, istinite i objektivne informacije. Uz etablirane urednice i voditeljice Mirjanu Hrgu i Anu Brdarić-Boljat, RTL
+            Danas je prvi, neovisan i nepristran informativni program.
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107201500 +0100" stop="20230107222000 +0100">
+        <title lang="hr">Pobješnjeli Max (12)</title>
+        <desc lang="hr">U vrijeme nakon nuklearne katastrofe Zemlja je opustošena. Preživjeli su uspjeli organizirati život, no vlada anarhija, a razne bande haraju. Policija je nemoćna. Kad izgubi partnera, policajac
+            Max Rockatinsky (Mel Gibson) odluči se povući i živjeti obiteljskim životom, no u jednom od svojih razornih pohoda motociklistička banda ubije mu ženu i dijete. Otada, njegov je jedini cilj uhvatiti
+            ubojice...
+        </desc>
+    </programme>
+    <programme channel="rtl.hr" start="20230107222000 +0100" stop="20230108002000 +0100">
+        <title lang="hr">Slomljeni grad (15)</title>
+        <desc lang="hr">Triler o bivšem policajcu koji traži iskupljenje i uzvraća udarac moćniku koji ga je izigrao. U New Yorku detektiv Billy Taggart (M. Wahlberg) mora na sud zbog ubojstva silovatelja Tavareza. Iako
+            su važni dokazi nestali, Billy je oslobođen optužbe, ali na gradonačelnikovu sugestiju napustio je policiju. Sedam godina poslije radi kao privatni detektiv, živi s djevojkom Natalie (N. Martinez), koja je
+            glumica i sestra je Tavarezove žrtve. Vrijeme je izbora i gradonačelnik Hostetler (R. Crowe) ponudi Billyju 25.000 dolara da istraži život njegove žene Cathleen (C. Zeta-Jones) za koju sumnja da ima
+            ljubavnika. Billy otkrije da se ona sastaje s koordinatorom kampanje Hostetlerovog najvećeg političkog suparnika. Ubrzo je koordinator nađen mrtav na ulici...
+        </desc>
+    </programme>
+</tv>
